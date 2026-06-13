@@ -1,0 +1,11 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Embedding Token",
+      "tensorShape": [1471, 768],
+      "tensorPath": "https://raw.githubusercontent.com/brusoto/SRI_AD_TE/main/projecao/DOALL_records_token_768_base_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/brusoto/SRI_AD_TE/main/projecao/DOALL_meta_token_768_base_POOL.tsv"
+    }
+  ],
+  "modelCheckpointPath": "Embeddings de Token"
+}
